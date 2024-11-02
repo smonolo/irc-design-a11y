@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "general"
+    },
+    {
+      "id": 2,
+      "name": "random"
+    },
+    {
+      "id": 3,
+      "name": "tech"
+    },
+    {
+      "id": 4,
+      "name": "music"
+    },
+    {
+      "id": 5,
+      "name": "games"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "channelId": 1,
+      "userId": 1,
+      "content": "hello"
+    },
+    {
+      "id": 2,
+      "channelId": 1,
+      "userId": 2,
+      "content": "hi"
+    },
+    {
+      "id": 3,
+      "channelId": 2,
+      "userId": 1,
+      "content": "hey"
+    }
+  ]
+}
